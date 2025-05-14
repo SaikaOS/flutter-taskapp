@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Использовался Provider + ChangeNotifier для управления состоянием
+Библиотеки:
+1) shared_preferences - для локального хранилища
+2) provider - для управления состоянием
+3) flutter/material - UI-компоненты (кнопки, списки, чекбоксы)
